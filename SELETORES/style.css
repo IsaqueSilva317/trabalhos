@@ -1,0 +1,16 @@
+@charset "UTF-8";
+
+body {background-color: green;
+    font-family: Georgia, 'Times New Roman', Times, serif;}
+
+h1#principal {text-align: center;
+    background-color: black;
+    color: yellow;}
+
+h1 {color: red;}
+
+p {text-align:justify;}
+
+.basico {color: violet;}
+
+.feliz {color: deeppink;}
