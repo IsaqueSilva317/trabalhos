@@ -1,0 +1,7 @@
+@charset "UTF-8";
+body{background-color: rgb(233, 236, 12); font-family: Arial, Helvetica, sans-serif;}
+h1{color: black;}
+h1#principal{text-align: center;background-color: lawngreen;color: blue;}
+h2{color: black;}
+.basico{color: black;}
+.intermediaria{color: blue;text-align: center;background-color: lawngreen;}
